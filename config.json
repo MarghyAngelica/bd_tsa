@@ -1,0 +1,10 @@
+{
+    "db": {
+        "user": "postgres",
+        "host": "localhost",
+        "database": "Control",
+        "password": "Casanare.2023*",
+        "port": 5432
+    },
+    "puerto": 3001
+}
